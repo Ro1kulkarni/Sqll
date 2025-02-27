@@ -3,7 +3,7 @@ import pandas as pd
 import streamlit as st
 import os
 
-# Set your OpenAI API Key
+# Set your OpenAI API Key# Set your OpenAI API Key# Set your OpenAI API Key
 openai.api_key = "your key"  # Replace with your actual API key
 
 def load_csv_schema(file):
