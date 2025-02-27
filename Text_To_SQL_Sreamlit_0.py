@@ -4,7 +4,7 @@ import streamlit as st
 import os
 
 # Set your OpenAI API Key
-openai.api_key = "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"  # Replace with your actual API key
+openai.api_key = "your key"  # Replace with your actual API key
 
 def load_csv_schema(file):
     """Extract schema from an uploaded CSV file."""
